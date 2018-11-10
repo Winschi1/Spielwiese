@@ -5,8 +5,7 @@ public class Testklasse {
 		return "Hello World";
 	}
 	public void printLn() {
-		System.out.println(getHelloWorld());
-		
+		System.out.println(getHelloWorld());		
 	}
 
 }
