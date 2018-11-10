@@ -6,6 +6,7 @@ public class Testklasse {
 	}
 	public void printLn() {
 		System.out.println(getHelloWorld());
+		
 	}
 
 }
